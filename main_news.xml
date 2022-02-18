@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>빌보드 코리아 ─ 메인 ─ 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Feb 2022 22:13:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등]]></title>
+            <link>http://billboard.co.kr/main/news/view/801</link>
+            <guid>http://billboard.co.kr/main/news/view/801</guid>
+            <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220218154308_5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 2월 19일 자 차트에 데뷔한 신곡]]></title>
+            <link>http://billboard.co.kr/main/news/view/800</link>
+            <guid>http://billboard.co.kr/main/news/view/800</guid>
+            <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[HOT SHOT DEBUT] 2월 19일 자 차트에 데뷔한 신곡</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220217144842_24.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 3월 서울 콘서트 개최]]></title>
+            <link>http://billboard.co.kr/main/news/view/799</link>
+            <guid>http://billboard.co.kr/main/news/view/799</guid>
+            <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>방탄소년단 3월 서울 콘서트 개최</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220216150511_6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 11주 1위 & 에스파의 신기록 경신]]></title>
+            <link>http://billboard.co.kr/main/news/view/798</link>
+            <guid>http://billboard.co.kr/main/news/view/798</guid>
+            <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>빌보드 케이팝 100, 소코도모 ‘회전목마’ 11주 1위 &amp; 에스파의 신기록 경신</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215204306_7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트레저의 새 챕터, '직진' 발매]]></title>
+            <link>http://billboard.co.kr/main/news/view/797</link>
+            <guid>http://billboard.co.kr/main/news/view/797</guid>
+            <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>트레저의 새 챕터, '직진' 발매</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215184112_4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설]]></title>
+            <link>http://billboard.co.kr/main/news/view/796</link>
+            <guid>http://billboard.co.kr/main/news/view/796</guid>
+            <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155934_1.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
