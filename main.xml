@@ -4,7 +4,7 @@
         <title>빌보드 코리아 ─ 메인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 22:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 22:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,6 +28,107 @@
             <guid>http://billboard.co.kr/main/news/view/800</guid>
             <pubDate>Fri, 18 Feb 2022 22:02:06 GMT</pubDate>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220217144842_23.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 3월 서울 콘서트 개최]]></title>
+            <link>http://billboard.co.kr/main/news/view/799</link>
+            <guid>http://billboard.co.kr/main/news/view/799</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220216150511_3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 11주 1위 & 에스파의 신기록 경신]]></title>
+            <link>http://billboard.co.kr/main/news/view/798</link>
+            <guid>http://billboard.co.kr/main/news/view/798</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 19일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215204306_11.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트레저의 새 챕터, '직진' 발매]]></title>
+            <link>http://billboard.co.kr/main/news/view/797</link>
+            <guid>http://billboard.co.kr/main/news/view/797</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215184112_13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설]]></title>
+            <link>http://billboard.co.kr/main/news/view/796</link>
+            <guid>http://billboard.co.kr/main/news/view/796</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 40개국 이상을 대상으로, 각 국가별 인기 노래 상위 25위를 매주 발표한다.]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155933_19.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[정규 앨범 [INVU]로 돌아온 차트 강자 태연]]></title>
+            <link>http://billboard.co.kr/main/news/view/795</link>
+            <guid>http://billboard.co.kr/main/news/view/795</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220214171157_10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데뷔 10주년 맞은 에이핑크, 스페셜 앨범 [HORN]으로 컴백]]></title>
+            <link>http://billboard.co.kr/main/news/view/794</link>
+            <guid>http://billboard.co.kr/main/news/view/794</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220214151031_6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에드 시런과 테일러 스위프트의 협업을 둘러싼 팬들의 추리게임]]></title>
+            <link>http://billboard.co.kr/main/news/view/793</link>
+            <guid>http://billboard.co.kr/main/news/view/793</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220211123249_18.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[JYP 신인 걸그룹 엔믹스의 데뷔 콘셉트 공개]]></title>
+            <link>http://billboard.co.kr/main/news/view/791</link>
+            <guid>http://billboard.co.kr/main/news/view/791</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220209121854_7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음반 호황의 불편한 진실]]></title>
+            <link>http://billboard.co.kr/main/news/view/771</link>
+            <guid>http://billboard.co.kr/main/news/view/771</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220117110007_3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위켄드와 그의 협업 아티스트가 전하는 ‘Blinding Lights’ 제작 스토리]]></title>
+            <link>http://billboard.co.kr/main/news/view/754</link>
+            <guid>http://billboard.co.kr/main/news/view/754</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104122759_3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 빌보드 케이팝 100 연말 결산]]></title>
+            <link>http://billboard.co.kr/main/news/view/752</link>
+            <guid>http://billboard.co.kr/main/news/view/752</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228172847_12.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[외로운 심연에서 피어난 데이먼스 이어의 음악]]></title>
+            <link>http://billboard.co.kr/main/news/view/753</link>
+            <guid>http://billboard.co.kr/main/news/view/753</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228171414_10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[B-Picks] 놓치지 말아야 할 5장의 국내 앨범]]></title>
+            <link>http://billboard.co.kr/main/news/view/751</link>
+            <guid>http://billboard.co.kr/main/news/view/751</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 앨범이 묻히는 일이 없도록, 빌보드 코리아가 엄선한 5장의 앨범을 소개한다.]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211227194652_13.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크]]></title>
+            <link>http://billboard.co.kr/main/videos/view/716</link>
+            <guid>http://billboard.co.kr/main/videos/view/716</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <enclosure url="https://img.youtube.com/vi/hQmf0Esv4g0/maxresdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오마이걸 지목 토크 |  How Well Do You Know Your Bandmates?]]></title>
