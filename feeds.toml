@@ -1,0 +1,9 @@
+[news]
+title = "빌보드 코리아 ─ 뉴스"
+url = "http://billboard.co.kr/main/news/list"
+entrySelector = "ul.clr.news li"
+titleSelector = "div.txt span"
+linkSelector = "a"
+imageSelector = "div.img-con img"
+waitUntil = "networkidle"
+onFail = "stale"
