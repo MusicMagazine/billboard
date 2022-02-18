@@ -7,3 +7,13 @@ linkSelector = "a"
 imageSelector = "div.img-con img"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[main]
+title = "빌보드 코리아 ─ 메인"
+url = "http://billboard.co.kr/main/"
+entrySelector = "div[class^='swiper-slide vi_item swiper-slide'] a.vi_item_link"
+titleSelector = "div.txt_wrap h3"
+linkSelector = "*"
+contentSelector = "div.txt_wrap p"
+imageSelector = "div.img_wrap img"
+waitUntil = "networkidle"
