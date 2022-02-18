@@ -17,3 +17,13 @@ linkSelector = "*"
 contentSelector = "div.txt_wrap p"
 imageSelector = "div.img_wrap img"
 waitUntil = "networkidle"
+
+[main_news]
+title = "빌보드 코리아 ─ 메인 ─ 뉴스"
+url = "http://billboard.co.kr/main/"
+entrySelector = "div.main_news.main_news02 div.inner ul.clr.news_list li"
+titleSelector = "a div.txt div.ttl"
+linkSelector = "a"
+contentSelector = "a div.txt div.ttl"
+imageSelector = "div.img img"
+waitUntil = "networkidle"
