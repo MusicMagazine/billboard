@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 12:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 13:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,7 +189,7 @@
             <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위 (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/802</link>
             <guid>http://billboard.co.kr/main/news/view/802</guid>
-            <pubDate>Tue, 22 Feb 2022 12:25:36 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 12:25:09 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 26일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_7.png" length="0" type="image/png"/>
         </item>
@@ -305,7 +305,7 @@
             <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위 (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/802</link>
             <guid>http://billboard.co.kr/main/news/view/802</guid>
-            <pubDate>Tue, 22 Feb 2022 12:25:36 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 12:25:09 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 26일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_7.png" length="0" type="image/png"/>
         </item>
@@ -313,7 +313,7 @@
             <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/802</link>
             <guid>http://billboard.co.kr/main/news/view/802</guid>
-            <pubDate>Tue, 22 Feb 2022 12:25:49 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 12:25:09 GMT</pubDate>
             <content:encoded><![CDATA[<strong>빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
         </item>
