@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 14:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 15:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -313,7 +313,7 @@
             <title><![CDATA[250, 4년간 제작한 앨범 [뽕] 발매일과 새 싱글 공개 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/803</link>
             <guid>http://billboard.co.kr/main/news/view/803</guid>
-            <pubDate>Tue, 22 Feb 2022 14:13:34 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 14:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>250, 4년간 제작한 앨범 [뽕] 발매일과 새 싱글 공개</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222221115_10.jpg" length="0" type="image/jpg"/>
         </item>
