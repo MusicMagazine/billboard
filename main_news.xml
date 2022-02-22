@@ -4,9 +4,17 @@
         <title>빌보드 코리아 ─ 메인 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 11:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 12:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위]]></title>
+            <link>http://billboard.co.kr/main/news/view/802</link>
+            <guid>http://billboard.co.kr/main/news/view/802</guid>
+            <pubDate>Tue, 22 Feb 2022 12:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등]]></title>
             <link>http://billboard.co.kr/main/news/view/801</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<strong>트레저의 새 챕터, '직진' 발매</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215184112_4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설]]></title>
-            <link>http://billboard.co.kr/main/news/view/796</link>
-            <guid>http://billboard.co.kr/main/news/view/796</guid>
-            <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155934_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

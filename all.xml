@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 11:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 12:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/802</link>
+            <guid>http://billboard.co.kr/main/news/view/802</guid>
+            <pubDate>Tue, 22 Feb 2022 12:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/802">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220222210451_45.png" alt="빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/801</link>
@@ -160,30 +179,19 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220214151031_17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에드 시런과 테일러 스위프트의 협업을 둘러싼 팬들의 추리게임 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/793</link>
-            <guid>http://billboard.co.kr/main/news/view/793</guid>
-            <pubDate>Fri, 18 Feb 2022 21:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/793">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220211123249_11.png" alt="에드 시런과 테일러 스위프트의 협업을 둘러싼 팬들의 추리게임" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>에드 시런과 테일러 스위프트의 협업을 둘러싼 팬들의 추리게임</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220211123249_11.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[오마이걸 지목 토크 |  How Well Do You Know Your Bandmates? (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/videos/view/704</link>
             <guid>http://billboard.co.kr/main/videos/view/704</guid>
             <pubDate>Fri, 18 Feb 2022 22:02:06 GMT</pubDate>
             <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/maxresdefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위 (빌보드 코리아 ─ 메인)]]></title>
+            <link>http://billboard.co.kr/main/news/view/802</link>
+            <guid>http://billboard.co.kr/main/news/view/802</guid>
+            <pubDate>Tue, 22 Feb 2022 12:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 26일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등 (빌보드 코리아 ─ 메인)]]></title>
@@ -194,26 +202,11 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220218154308_10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[HOT SHOT DEBUT] 2월 19일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인)]]></title>
-            <link>http://billboard.co.kr/main/news/view/800</link>
-            <guid>http://billboard.co.kr/main/news/view/800</guid>
-            <pubDate>Fri, 18 Feb 2022 21:46:07 GMT</pubDate>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220217144842_23.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[방탄소년단 3월 서울 콘서트 개최 (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/799</link>
             <guid>http://billboard.co.kr/main/news/view/799</guid>
             <pubDate>Fri, 18 Feb 2022 21:46:07 GMT</pubDate>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220216150511_3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 11주 1위 & 에스파의 신기록 경신 (빌보드 코리아 ─ 메인)]]></title>
-            <link>http://billboard.co.kr/main/news/view/798</link>
-            <guid>http://billboard.co.kr/main/news/view/798</guid>
-            <pubDate>Fri, 18 Feb 2022 21:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 19일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215204306_11.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트레저의 새 챕터, '직진' 발매 (빌보드 코리아 ─ 메인)]]></title>
@@ -309,12 +302,20 @@
             <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/maxresdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등 (빌보드 코리아 ─ 메인)]]></title>
-            <link>http://billboard.co.kr/main/news/view/801</link>
-            <guid>http://billboard.co.kr/main/news/view/801</guid>
-            <pubDate>Fri, 18 Feb 2022 21:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[닥터 드레와 스눕 독이 하프타임 쇼 무대에서 부른 ‘Still D.R.E.’는 슈퍼볼 이후 최다 스트리밍 곡에 등극했다.]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220218154308_10.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위 (빌보드 코리아 ─ 메인)]]></title>
+            <link>http://billboard.co.kr/main/news/view/802</link>
+            <guid>http://billboard.co.kr/main/news/view/802</guid>
+            <pubDate>Tue, 22 Feb 2022 12:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 26일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_7.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/802</link>
+            <guid>http://billboard.co.kr/main/news/view/802</guid>
+            <pubDate>Tue, 22 Feb 2022 12:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
@@ -355,14 +356,6 @@
             <pubDate>Fri, 18 Feb 2022 21:46:07 GMT</pubDate>
             <content:encoded><![CDATA[<strong>트레저의 새 챕터, '직진' 발매</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215184112_4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/796</link>
-            <guid>http://billboard.co.kr/main/news/view/796</guid>
-            <pubDate>Fri, 18 Feb 2022 21:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155934_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
