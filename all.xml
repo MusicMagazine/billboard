@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 10:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 11:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,7 +189,7 @@
             <title><![CDATA[[HOT SHOT DEBUT] 2월 26일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/804</link>
             <guid>http://billboard.co.kr/main/news/view/804</guid>
-            <pubDate>Fri, 25 Feb 2022 10:16:14 GMT</pubDate>
+            <pubDate>Fri, 25 Feb 2022 10:16:02 GMT</pubDate>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220225164820_23.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -312,14 +312,14 @@
             <title><![CDATA[[HOT SHOT DEBUT] 2월 26일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/804</link>
             <guid>http://billboard.co.kr/main/news/view/804</guid>
-            <pubDate>Fri, 25 Feb 2022 10:16:14 GMT</pubDate>
+            <pubDate>Fri, 25 Feb 2022 10:16:02 GMT</pubDate>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220225164820_23.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[HOT SHOT DEBUT] 2월 26일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/804</link>
             <guid>http://billboard.co.kr/main/news/view/804</guid>
-            <pubDate>Fri, 25 Feb 2022 10:16:26 GMT</pubDate>
+            <pubDate>Fri, 25 Feb 2022 10:16:02 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[HOT SHOT DEBUT] 2월 26일 자 차트에 데뷔한 신곡</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220225164908_34.png" length="0" type="image/png"/>
         </item>
