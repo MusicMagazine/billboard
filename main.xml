@@ -4,7 +4,7 @@
         <title>빌보드 코리아 ─ 메인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 09:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 10:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://billboard.co.kr/main/videos/view/704</guid>
             <pubDate>Fri, 18 Feb 2022 22:02:06 GMT</pubDate>
             <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/maxresdefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 2월 26일 자 차트에 데뷔한 신곡]]></title>
+            <link>http://billboard.co.kr/main/news/view/804</link>
+            <guid>http://billboard.co.kr/main/news/view/804</guid>
+            <pubDate>Fri, 25 Feb 2022 10:16:14 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220225164820_23.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위]]></title>
@@ -131,12 +138,11 @@
             <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/maxresdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/802</link>
-            <guid>http://billboard.co.kr/main/news/view/802</guid>
-            <pubDate>Tue, 22 Feb 2022 12:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 26일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_7.png" length="0" type="image/png"/>
+            <title><![CDATA[[HOT SHOT DEBUT] 2월 26일 자 차트에 데뷔한 신곡]]></title>
+            <link>http://billboard.co.kr/main/news/view/804</link>
+            <guid>http://billboard.co.kr/main/news/view/804</guid>
+            <pubDate>Fri, 25 Feb 2022 10:16:14 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220225164820_23.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
