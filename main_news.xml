@@ -4,9 +4,17 @@
         <title>빌보드 코리아 ─ 메인 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 03:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸예 웨스트의 ‘Donda 2’ 리스닝 콘서트에서 발견한 다섯 가지]]></title>
+            <link>http://billboard.co.kr/main/news/view/805</link>
+            <guid>http://billboard.co.kr/main/news/view/805</guid>
+            <pubDate>Mon, 28 Feb 2022 03:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>칸예 웨스트의 ‘Donda 2’ 리스닝 콘서트에서 발견한 다섯 가지</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220225200243_0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[HOT SHOT DEBUT] 2월 26일 자 차트에 데뷔한 신곡]]></title>
             <link>http://billboard.co.kr/main/news/view/804</link>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<strong>[HOT SHOT DEBUT] 2월 19일 자 차트에 데뷔한 신곡</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220217144842_24.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 3월 서울 콘서트 개최]]></title>
-            <link>http://billboard.co.kr/main/news/view/799</link>
-            <guid>http://billboard.co.kr/main/news/view/799</guid>
-            <pubDate>Fri, 18 Feb 2022 22:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>방탄소년단 3월 서울 콘서트 개최</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220216150511_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
