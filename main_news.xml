@@ -4,7 +4,7 @@
         <title>빌보드 코리아 ─ 메인 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 08:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 03 Mar 2022 06:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<strong>박재범이 'MORE VISION'을 통해 나누고 싶은 것</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303142826_5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡]]></title>
+            <link>http://billboard.co.kr/main/news/view/807</link>
+            <guid>http://billboard.co.kr/main/news/view/807</guid>
+            <pubDate>Thu, 03 Mar 2022 08:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303140223_8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극]]></title>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 22 Feb 2022 14:13:34 GMT</pubDate>
             <content:encoded><![CDATA[<strong>250, 4년간 제작한 앨범 [뽕] 발매일과 새 싱글 공개</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222221115_10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/802</link>
-            <guid>http://billboard.co.kr/main/news/view/802</guid>
-            <pubDate>Tue, 22 Feb 2022 12:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

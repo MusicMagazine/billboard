@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 08:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,6 +25,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303142826_5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/807</link>
+            <guid>http://billboard.co.kr/main/news/view/807</guid>
+            <pubDate>Thu, 03 Mar 2022 08:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/807">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220303140223_8.png" alt="[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303140223_8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극 (빌보드 코리아 ─ 뉴스)]]></title>
@@ -160,30 +179,18 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220217144842_24.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 3월 서울 콘서트 개최 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/799</link>
-            <guid>http://billboard.co.kr/main/news/view/799</guid>
-            <pubDate>Fri, 18 Feb 2022 21:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/799">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220216150511_6.jpg" alt="방탄소년단 3월 서울 콘서트 개최" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>방탄소년단 3월 서울 콘서트 개최</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220216150511_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오마이걸 지목 토크 |  How Well Do You Know Your Bandmates? (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/videos/view/704</link>
             <guid>http://billboard.co.kr/main/videos/view/704</guid>
             <pubDate>Fri, 18 Feb 2022 22:02:06 GMT</pubDate>
             <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/maxresdefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인)]]></title>
+            <link>http://billboard.co.kr/main/news/view/807</link>
+            <guid>http://billboard.co.kr/main/news/view/807</guid>
+            <pubDate>Thu, 03 Mar 2022 08:17:40 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303140223_12.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극 (빌보드 코리아 ─ 메인)]]></title>
@@ -254,12 +261,11 @@
             <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/maxresdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극 (빌보드 코리아 ─ 메인)]]></title>
-            <link>http://billboard.co.kr/main/news/view/806</link>
-            <guid>http://billboard.co.kr/main/news/view/806</guid>
-            <pubDate>Tue, 01 Mar 2022 12:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 5일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220301203508_1[1].png" length="0" type="image/png"/>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인)]]></title>
+            <link>http://billboard.co.kr/main/news/view/807</link>
+            <guid>http://billboard.co.kr/main/news/view/807</guid>
+            <pubDate>Thu, 03 Mar 2022 08:17:40 GMT</pubDate>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303140223_12.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[박재범이 'MORE VISION'을 통해 나누고 싶은 것 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
@@ -268,6 +274,14 @@
             <pubDate>Thu, 03 Mar 2022 06:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<strong>박재범이 'MORE VISION'을 통해 나누고 싶은 것</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303142826_5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/807</link>
+            <guid>http://billboard.co.kr/main/news/view/807</guid>
+            <pubDate>Thu, 03 Mar 2022 08:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303140223_8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
@@ -300,14 +314,6 @@
             <pubDate>Tue, 22 Feb 2022 14:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<strong>250, 4년간 제작한 앨범 [뽕] 발매일과 새 싱글 공개</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222221115_10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/802</link>
-            <guid>http://billboard.co.kr/main/news/view/802</guid>
-            <pubDate>Tue, 22 Feb 2022 12:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
