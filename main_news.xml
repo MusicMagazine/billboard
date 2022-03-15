@@ -4,9 +4,17 @@
         <title>빌보드 코리아 ─ 메인 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 12:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 13:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태연 ‘INVU’, 케이팝 100 3주 1위 & 스테이씨, MSG워너비M.O.M의 톱 10 진입]]></title>
+            <link>http://billboard.co.kr/main/news/view/815</link>
+            <guid>http://billboard.co.kr/main/news/view/815</guid>
+            <pubDate>Tue, 15 Mar 2022 13:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>태연 ‘INVU’, 케이팝 100 3주 1위 &amp; 스테이씨, MSG워너비M.O.M의 톱 10 진입</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315214802_15.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴이스트의 10년, 그리고 [Needle & Bubble]]]></title>
             <link>http://billboard.co.kr/main/news/view/812</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 03 Mar 2022 10:16:42 GMT</pubDate>
             <content:encoded><![CDATA[<strong>글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303183349_8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박재범이 'MORE VISION'을 통해 나누고 싶은 것]]></title>
-            <link>http://billboard.co.kr/main/news/view/808</link>
-            <guid>http://billboard.co.kr/main/news/view/808</guid>
-            <pubDate>Thu, 03 Mar 2022 06:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>박재범이 'MORE VISION'을 통해 나누고 싶은 것</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303142826_5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
