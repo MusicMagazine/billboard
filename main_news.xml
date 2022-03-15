@@ -4,9 +4,25 @@
         <title>빌보드 코리아 ─ 메인 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 09:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 10:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴이스트의 10년, 그리고 [Needle & Bubble]]]></title>
+            <link>http://billboard.co.kr/main/news/view/812</link>
+            <guid>http://billboard.co.kr/main/news/view/812</guid>
+            <pubDate>Tue, 15 Mar 2022 10:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>뉴이스트의 10년, 그리고 [Needle &amp; Bubble]</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165008_9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탑티어의 만남, 박재범x아이유]]></title>
+            <link>http://billboard.co.kr/main/news/view/814</link>
+            <guid>http://billboard.co.kr/main/news/view/814</guid>
+            <pubDate>Tue, 15 Mar 2022 10:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>탑티어의 만남, 박재범x아이유</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HOT SHOT DEBUT] 3월 12일 자 차트에 데뷔한 신곡]]></title>
             <link>http://billboard.co.kr/main/news/view/811</link>
@@ -38,22 +54,6 @@
             <pubDate>Thu, 03 Mar 2022 06:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<strong>박재범이 'MORE VISION'을 통해 나누고 싶은 것</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303142826_5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡]]></title>
-            <link>http://billboard.co.kr/main/news/view/807</link>
-            <guid>http://billboard.co.kr/main/news/view/807</guid>
-            <pubDate>Thu, 03 Mar 2022 08:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303140223_8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극]]></title>
-            <link>http://billboard.co.kr/main/news/view/806</link>
-            <guid>http://billboard.co.kr/main/news/view/806</guid>
-            <pubDate>Tue, 01 Mar 2022 12:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220301203508_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
