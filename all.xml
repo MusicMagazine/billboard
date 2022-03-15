@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 10:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 11:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,14 +189,14 @@
             <title><![CDATA[뉴이스트의 10년, 그리고 [Needle & Bubble] (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/812</link>
             <guid>http://billboard.co.kr/main/news/view/812</guid>
-            <pubDate>Tue, 15 Mar 2022 10:17:02 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 10:16:54 GMT</pubDate>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165008_4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탑티어의 만남, 박재범x아이유 (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/814</link>
             <guid>http://billboard.co.kr/main/news/view/814</guid>
-            <pubDate>Tue, 15 Mar 2022 10:17:02 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 10:16:54 GMT</pubDate>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -249,14 +249,14 @@
             <title><![CDATA[뉴이스트의 10년, 그리고 [Needle & Bubble] (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/812</link>
             <guid>http://billboard.co.kr/main/news/view/812</guid>
-            <pubDate>Tue, 15 Mar 2022 10:17:02 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 10:16:54 GMT</pubDate>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165008_4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴이스트의 10년, 그리고 [Needle & Bubble] (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/812</link>
             <guid>http://billboard.co.kr/main/news/view/812</guid>
-            <pubDate>Tue, 15 Mar 2022 10:17:10 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 10:16:54 GMT</pubDate>
             <content:encoded><![CDATA[<strong>뉴이스트의 10년, 그리고 [Needle &amp; Bubble]</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165008_9.jpg" length="0" type="image/jpg"/>
         </item>
@@ -264,7 +264,7 @@
             <title><![CDATA[탑티어의 만남, 박재범x아이유 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/814</link>
             <guid>http://billboard.co.kr/main/news/view/814</guid>
-            <pubDate>Tue, 15 Mar 2022 10:17:10 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 10:16:54 GMT</pubDate>
             <content:encoded><![CDATA[<strong>탑티어의 만남, 박재범x아이유</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_4.jpg" length="0" type="image/jpg"/>
         </item>
