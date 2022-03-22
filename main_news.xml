@@ -4,9 +4,17 @@
         <title>빌보드 코리아 ─ 메인 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 07:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 19일 자 차트에 데뷔한 신곡]]></title>
+            <link>http://billboard.co.kr/main/news/view/816</link>
+            <guid>http://billboard.co.kr/main/news/view/816</guid>
+            <pubDate>Tue, 22 Mar 2022 07:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>[HOT SHOT DEBUT] 3월 19일 자 차트에 데뷔한 신곡</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220322135852_20.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 케이팝 100 3주 1위 & 스테이씨, MSG워너비M.O.M의 톱 10 진입]]></title>
             <link>http://billboard.co.kr/main/news/view/815</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 08 Mar 2022 13:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<strong>태연 ‘INVU’, 빌보드 케이팝 100 차트 2주 연속 1위</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220308215802_14.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]]]></title>
-            <link>http://billboard.co.kr/main/news/view/809</link>
-            <guid>http://billboard.co.kr/main/news/view/809</guid>
-            <pubDate>Thu, 03 Mar 2022 10:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303183349_8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
