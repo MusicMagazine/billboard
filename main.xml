@@ -4,15 +4,16 @@
         <title>빌보드 코리아 ─ 메인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[오마이걸 지목 토크 |  How Well Do You Know Your Bandmates?]]></title>
-            <link>http://billboard.co.kr/main/videos/view/704</link>
-            <guid>http://billboard.co.kr/main/videos/view/704</guid>
-            <pubDate>Fri, 18 Feb 2022 22:02:06 GMT</pubDate>
-            <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/maxresdefault.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설]]></title>
+            <link>http://billboard.co.kr/main/news/view/796</link>
+            <guid>http://billboard.co.kr/main/news/view/796</guid>
+            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 40개국 이상을 대상으로, 각 국가별 인기 노래 상위 25위를 매주 발표한다.]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155933_19.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 케이팝 100 3주 1위 & 스테이씨, MSG워너비M.O.M의 톱 10 진입]]></title>
@@ -37,42 +38,12 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[칸예 웨스트의 ‘Donda 2’ 리스닝 콘서트에서 발견한 다섯 가지]]></title>
-            <link>http://billboard.co.kr/main/news/view/805</link>
-            <guid>http://billboard.co.kr/main/news/view/805</guid>
-            <pubDate>Mon, 28 Feb 2022 03:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[셀럽부터 패션까지…마이애미에서 열린 ‘Donda 2’ 공연에서 빌보드가 발견한 모든 것]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220225200243_16.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설]]></title>
             <link>http://billboard.co.kr/main/news/view/796</link>
             <guid>http://billboard.co.kr/main/news/view/796</guid>
             <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 40개국 이상을 대상으로, 각 국가별 인기 노래 상위 25위를 매주 발표한다.]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155933_19.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[B-Picks] 놓치지 말아야 할 5장의 국내 앨범]]></title>
-            <link>http://billboard.co.kr/main/news/view/751</link>
-            <guid>http://billboard.co.kr/main/news/view/751</guid>
-            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 앨범이 묻히는 일이 없도록, 빌보드 코리아가 엄선한 5장의 앨범을 소개한다.]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211227194652_13.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크]]></title>
-            <link>http://billboard.co.kr/main/videos/view/716</link>
-            <guid>http://billboard.co.kr/main/videos/view/716</guid>
-            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
-            <enclosure url="https://img.youtube.com/vi/hQmf0Esv4g0/maxresdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 지목 토크 |  How Well Do You Know Your Bandmates?]]></title>
-            <link>http://billboard.co.kr/main/videos/view/704</link>
-            <guid>http://billboard.co.kr/main/videos/view/704</guid>
-            <pubDate>Fri, 18 Feb 2022 22:02:06 GMT</pubDate>
-            <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/maxresdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 케이팝 100 3주 1위 & 스테이씨, MSG워너비M.O.M의 톱 10 진입]]></title>
