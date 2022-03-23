@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,7 +190,7 @@
             <title><![CDATA[박재범 ‘GANADARA’, 빌보드 케이팝 100 차트 정상 데뷔 (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/817</link>
             <guid>http://billboard.co.kr/main/news/view/817</guid>
-            <pubDate>Wed, 23 Mar 2022 02:53:24 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 02:53:16 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 26일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220323102411_15.png" length="0" type="image/png"/>
         </item>
@@ -220,7 +220,7 @@
             <title><![CDATA[박재범 ‘GANADARA’, 빌보드 케이팝 100 차트 정상 데뷔 (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/817</link>
             <guid>http://billboard.co.kr/main/news/view/817</guid>
-            <pubDate>Wed, 23 Mar 2022 02:53:24 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 02:53:16 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 26일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220323102411_15.png" length="0" type="image/png"/>
         </item>
@@ -228,7 +228,7 @@
             <title><![CDATA[박재범 ‘GANADARA’, 빌보드 케이팝 100 차트 정상 데뷔 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/817</link>
             <guid>http://billboard.co.kr/main/news/view/817</guid>
-            <pubDate>Wed, 23 Mar 2022 02:53:31 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2022 02:53:16 GMT</pubDate>
             <content:encoded><![CDATA[<strong>박재범 ‘GANADARA’, 빌보드 케이팝 100 차트 정상 데뷔</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220323102411_6.png" length="0" type="image/png"/>
         </item>
