@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 12:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/820</link>
+            <guid>http://billboard.co.kr/main/news/view/820</guid>
+            <pubDate>Tue, 29 Mar 2022 12:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/820">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220329203444_6.png" alt="(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220329203444_6.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[HOT SHOT DEBUT] 3월 26일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/818</link>
@@ -160,25 +179,6 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220308215802_14.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache] (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/809</link>
-            <guid>http://billboard.co.kr/main/news/view/809</guid>
-            <pubDate>Thu, 03 Mar 2022 10:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/809">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220303183349_8.jpg" alt="글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303183349_8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설 (빌보드 코리아 ─ 메인)]]></title>
             <link>http://billboard.co.kr/main/news/view/796</link>
             <guid>http://billboard.co.kr/main/news/view/796</guid>
@@ -187,19 +187,12 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155933_19.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[HOT SHOT DEBUT] 3월 26일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인)]]></title>
-            <link>http://billboard.co.kr/main/news/view/818</link>
-            <guid>http://billboard.co.kr/main/news/view/818</guid>
-            <pubDate>Fri, 25 Mar 2022 06:19:01 GMT</pubDate>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220325133505_29.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[박재범 ‘GANADARA’, 빌보드 케이팝 100 차트 정상 데뷔 (빌보드 코리아 ─ 메인)]]></title>
-            <link>http://billboard.co.kr/main/news/view/817</link>
-            <guid>http://billboard.co.kr/main/news/view/817</guid>
-            <pubDate>Wed, 23 Mar 2022 02:53:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 26일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220323102411_15.png" length="0" type="image/png"/>
+            <title><![CDATA[(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극 (빌보드 코리아 ─ 메인)]]></title>
+            <link>http://billboard.co.kr/main/news/view/820</link>
+            <guid>http://billboard.co.kr/main/news/view/820</guid>
+            <pubDate>Tue, 29 Mar 2022 12:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 2일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220329203615_12.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뉴이스트의 10년, 그리고 [Needle & Bubble] (빌보드 코리아 ─ 메인)]]></title>
@@ -224,11 +217,20 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155933_19.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[HOT SHOT DEBUT] 3월 26일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인)]]></title>
-            <link>http://billboard.co.kr/main/news/view/818</link>
-            <guid>http://billboard.co.kr/main/news/view/818</guid>
-            <pubDate>Fri, 25 Mar 2022 06:19:01 GMT</pubDate>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220325133505_29.png" length="0" type="image/png"/>
+            <title><![CDATA[(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극 (빌보드 코리아 ─ 메인)]]></title>
+            <link>http://billboard.co.kr/main/news/view/820</link>
+            <guid>http://billboard.co.kr/main/news/view/820</guid>
+            <pubDate>Tue, 29 Mar 2022 12:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 2일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220329203615_12.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/820</link>
+            <guid>http://billboard.co.kr/main/news/view/820</guid>
+            <pubDate>Tue, 29 Mar 2022 12:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220329203444_6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[HOT SHOT DEBUT] 3월 26일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
@@ -269,14 +271,6 @@
             <pubDate>Tue, 15 Mar 2022 10:16:54 GMT</pubDate>
             <content:encoded><![CDATA[<strong>뉴이스트의 10년, 그리고 [Needle &amp; Bubble]</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165008_9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탑티어의 만남, 박재범x아이유 (빌보드 코리아 ─ 메인 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/814</link>
-            <guid>http://billboard.co.kr/main/news/view/814</guid>
-            <pubDate>Tue, 15 Mar 2022 10:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>탑티어의 만남, 박재범x아이유</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
