@@ -4,9 +4,17 @@
         <title>빌보드 코리아 ─ 메인 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 13:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 14:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들 ‘TOMBOY’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
+            <link>http://billboard.co.kr/main/news/view/822</link>
+            <guid>http://billboard.co.kr/main/news/view/822</guid>
+            <pubDate>Tue, 05 Apr 2022 14:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[<strong>(여자)아이들 ‘TOMBOY’, 빌보드 케이팝 100 차트 2주 연속 1위</strong>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220405223034_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극]]></title>
             <link>http://billboard.co.kr/main/news/view/820</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 15 Mar 2022 13:21:47 GMT</pubDate>
             <content:encoded><![CDATA[<strong>태연 ‘INVU’, 케이팝 100 3주 1위 &amp; 스테이씨, MSG워너비M.O.M의 톱 10 진입</strong>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315214802_15.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴이스트의 10년, 그리고 [Needle & Bubble]]]></title>
-            <link>http://billboard.co.kr/main/news/view/812</link>
-            <guid>http://billboard.co.kr/main/news/view/812</guid>
-            <pubDate>Tue, 15 Mar 2022 10:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<strong>뉴이스트의 10년, 그리고 [Needle &amp; Bubble]</strong>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165008_9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
