@@ -4,7 +4,7 @@
         <title>빌보드 코리아 ─ 메인</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 13:38:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 14:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 40개국 이상을 대상으로, 각 국가별 인기 노래 상위 25위를 매주 발표한다.]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155933_19.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BLANK2Y COVER STORY]]></title>
+            <link>http://billboard.co.kr/main/news/view/823</link>
+            <guid>http://billboard.co.kr/main/news/view/823</guid>
+            <pubDate>Tue, 26 Jul 2022 14:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[자신감으로 똘똘 뭉친 새로운 아이돌 그룹의 탄생]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220726225805_0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[(여자)아이들 ‘TOMBOY’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
@@ -46,12 +54,12 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155933_19.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[(여자)아이들 ‘TOMBOY’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/822</link>
-            <guid>http://billboard.co.kr/main/news/view/822</guid>
-            <pubDate>Tue, 05 Apr 2022 14:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 9일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220405223034_16.png" length="0" type="image/png"/>
+            <title><![CDATA[BLANK2Y COVER STORY]]></title>
+            <link>http://billboard.co.kr/main/news/view/823</link>
+            <guid>http://billboard.co.kr/main/news/view/823</guid>
+            <pubDate>Tue, 26 Jul 2022 14:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[자신감으로 똘똘 뭉친 새로운 아이돌 그룹의 탄생]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220726225805_0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
