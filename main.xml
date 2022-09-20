@@ -1,65 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>빌보드 코리아 ─ 메인</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 16:25:40 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설]]></title>
-            <link>http://billboard.co.kr/main/news/view/796</link>
-            <guid>http://billboard.co.kr/main/news/view/796</guid>
-            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 40개국 이상을 대상으로, 각 국가별 인기 노래 상위 25위를 매주 발표한다.]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155933_19.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BLANK2Y COVER STORY]]></title>
-            <link>http://billboard.co.kr/main/news/view/823</link>
-            <guid>http://billboard.co.kr/main/news/view/823</guid>
-            <pubDate>Tue, 26 Jul 2022 14:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[자신감으로 똘똘 뭉친 새로운 아이돌 그룹의 탄생]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220726225805_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들 ‘TOMBOY’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/822</link>
-            <guid>http://billboard.co.kr/main/news/view/822</guid>
-            <pubDate>Tue, 05 Apr 2022 14:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 9일 자 빌보드 케이팝 100 '차트 비트']]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220405223034_16.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴이스트의 10년, 그리고 [Needle & Bubble]]]></title>
-            <link>http://billboard.co.kr/main/news/view/812</link>
-            <guid>http://billboard.co.kr/main/news/view/812</guid>
-            <pubDate>Tue, 15 Mar 2022 10:17:02 GMT</pubDate>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165008_4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탑티어의 만남, 박재범x아이유]]></title>
-            <link>http://billboard.co.kr/main/news/view/814</link>
-            <guid>http://billboard.co.kr/main/news/view/814</guid>
-            <pubDate>Tue, 15 Mar 2022 10:17:02 GMT</pubDate>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설]]></title>
-            <link>http://billboard.co.kr/main/news/view/796</link>
-            <guid>http://billboard.co.kr/main/news/view/796</guid>
-            <pubDate>Fri, 18 Feb 2022 22:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 40개국 이상을 대상으로, 각 국가별 인기 노래 상위 25위를 매주 발표한다.]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155933_19.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BLANK2Y COVER STORY]]></title>
-            <link>http://billboard.co.kr/main/news/view/823</link>
-            <guid>http://billboard.co.kr/main/news/view/823</guid>
-            <pubDate>Tue, 26 Jul 2022 14:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[자신감으로 똘똘 뭉친 새로운 아이돌 그룹의 탄생]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220726225805_0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://billboard.co.kr/main/</id>
+    <title>빌보드 코리아 ─ 메인</title>
+    <updated>2022-09-20T17:26:05.331Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://billboard.co.kr/images/favi/android-icon-192x192.png</icon>
+</feed>
